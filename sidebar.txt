@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kig:home|Door43 (kig)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kig|d43-kig repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kig/archive/master.zip|d43-kig.zip]]
+
+**Recent Changes**
+{{changes>ns = kig}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kig|Ethnologue data]]
+
